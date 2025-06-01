@@ -30,10 +30,10 @@ A simple and elegant card matching game built to challenge and train your memory
 
 Clone the repo and open the game in your browser:
 
-```bash
-git clone https://github.com/yourusername/memory-match-game.git
-cd memory-match-game
-open index.html
+    ```bash
+      git clone https://github.com/yourusername/memory-match-game.git
+      cd memory-match-game
+      open index.html
 
 
 ## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
